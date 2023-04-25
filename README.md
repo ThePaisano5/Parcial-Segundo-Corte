@@ -1,4 +1,4 @@
-# Parcial-Segundo-Corte
+# Parcial-Segundo-Corte-Estructura-De-Datos
 
 Estimado profesor Hector Fabio Soto Duran,
 
